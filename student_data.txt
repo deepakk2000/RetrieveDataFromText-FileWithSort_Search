@@ -1,0 +1,6 @@
+Luffy, class A
+Zoro, class B
+Deep, class C
+Sanji, class D
+Brook, class E
+Usoop, class F
